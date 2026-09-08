@@ -27,7 +27,7 @@ Agricultural activities are influenced by seasonal variations in environmental c
 | `seasonal_agriculture_performance_dataset.csv` | Raw dataset |
 | `cleaned_seasonal_agriculture_dataset.csv` | Cleaned dataset used for analysis |
 | `season_summary.csv` | Season-wise summary statistics |
-| `VOIS_Major_Project_PPT_Submission_Kanishk_Singh.pptx` | Final project presentation |
+| `VOIS_Major_Project_PPT_Submission_Vinayak_Ojha.pptx` | Final project presentation |
 
 
 ## Methodology
