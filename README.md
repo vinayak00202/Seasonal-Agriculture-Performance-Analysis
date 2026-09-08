@@ -2,9 +2,9 @@
 
 **VOIS AICTE Batch 1 (2026–2027) — Major Project**
 
-**Student:** Kanishk Singh
-**College:** International Institute of Information Technology, Pune
-**AICTE Student ID:** STU6a4366c4b05f41782802116
+**Student:** Vinayak Ojha 
+**College:** Chandigarh University 
+**AICTE Student ID:** STU685c284f43f901750870095
 
 ## Problem Statement
 
